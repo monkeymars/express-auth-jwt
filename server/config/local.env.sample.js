@@ -9,14 +9,14 @@ module.exports = {
   DOMAIN:           'http://localhost:9000',
   SESSION_SECRET:   'travelguts-secret',
 
-  FACEBOOK_ID:      '646915692125210',
-  FACEBOOK_SECRET:  'c9639971b0a4dda87cf655f4df53d550',
+  FACEBOOK_ID:      '',
+  FACEBOOK_SECRET:  '',
 
   TWITTER_ID:       'app-id',
   TWITTER_SECRET:   'secret',
 
-  GOOGLE_ID: '781718457323-2vs6rq3jmvm3tv6hk1oomdrck8mr94h8.apps.googleusercontent.com',
-  GOOGLE_SECRET: 'ycU7K6rqEeaWCSnXlnFu0Y4E',
+  GOOGLE_ID: '',
+  GOOGLE_SECRET: '',
 
   // Control debug level for modules using visionmedia/debug
   DEBUG: ''

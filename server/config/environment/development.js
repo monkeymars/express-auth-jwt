@@ -6,7 +6,7 @@ module.exports = {
 
   // MongoDB connection options
   mongo: {
-    uri: 'mongodb://localhost/travelguts-dev'
+    uri: 'mongodb://localhost/db-dev'
   },
 
   // Sequelize connection opions

@@ -42,21 +42,21 @@ var all = {
   },
 
   facebook: {
-    clientID: '646915692125210',
-    clientSecret: 'c9639971b0a4dda87cf655f4df53d550',
-    callbackURL: 'https://ullem.com/auth/facebook/callback'
+    clientID: '',
+    clientSecret: '',
+    callbackURL: ''
   },
 
   twitter: {
-    clientID: 'VWAxgP0Wg5RLFBXu2N1stYfkC',
-    clientSecret: 'zRBQqOidOM9Wa9M6NCICZsYm81bsPLKJFczhdcyTFnkxf9DAr6',
+    clientID: '',
+    clientSecret: '',
     callbackURL: (process.env.DOMAIN || '') + '/auth/twitter/callback'
   },
 
   google: {
-    clientID: '748892822925-7gfl1fajdk2lpa4mbj7rok3q5uh6r97e.apps.googleusercontent.com',
-    clientSecret: 'qnD6YxI5ewTWv0pzPjry7Iy7',
-    callbackURL: 'https://ullem.com/auth/google/callback'
+    clientID: '',
+    clientSecret: '',
+    callbackURL: ''
   }
 
 };
